@@ -116,11 +116,9 @@ if __name__ == "__main__":
 
 ## 🧾 Sample Output
 
-### BBC News Example Output
+### TV9 Marathi Example Output
 
 ![Output 1](images/output1.png)
-
-### TV9 Marathi Example Output
 
 ![Output 2](images/output2.png)
 
@@ -130,7 +128,7 @@ The output file (`headlines.txt` or custom name) contains all extracted headline
 
 ## ✅ Results
 
-* Successfully scrapes headlines from **BBC News** and **other websites** (like TV9 Marathi).
+* Successfully scrapes headlines from **TV9 News** and **other websites** (like BBC ).
 * Automatically saves to `headlines.txt` if no file is specified.
 * Handles user input and invalid URLs gracefully.
 
